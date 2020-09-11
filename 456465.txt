@@ -1,1 +1,14 @@
-5sdasd
+修改螢幕隱藏
+
+解答->拼字解答
+發音->AI發音
+換順序
+----------------
+貼圖
+
+itut 修正bug 重新送審
+實作android lab 1 ~ 7
+修正lab4 code
+列出 itut 修正issue
+修正lab4 word內容和圖片
+修正 youtube 播放異常
