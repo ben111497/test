@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 修改螢幕隱藏
 
 解答->拼字解答
@@ -12,3 +13,18 @@ itut 修正bug 重新送審
 列出 itut 修正issue
 修正lab4 word內容和圖片
 修正 youtube 播放異常
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+dsdsddddfdfdfd
+=======
+5sdasd
+>>>>>>> 430fc02b6168382b39e2771f2229fc80e3bbea3e
+=======
+vdlisdlvcxv
+>>>>>>> origin/xxx
+=======
+ddddfsdfds
+>>>>>>> origin/aaa
+>>>>>>> 63dec3360ff0756e344bad354bcbd75d89c5743d
