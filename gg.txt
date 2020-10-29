@@ -1,14 +1,3 @@
 
 5
 255
-aafsdasf
-<<<<<<< HEAD
-144654
-
-jpofsdvposjd
-=======
-<<<<<<< HEAD
-144654
-
->>>>>>> origin/xxx
-456456465
